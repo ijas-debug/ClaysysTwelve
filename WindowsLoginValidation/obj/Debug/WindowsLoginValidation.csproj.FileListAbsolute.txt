@@ -1,0 +1,12 @@
+C:\Users\IJAS\source\repos\WindowsLoginValidation\obj\Debug\WindowsLoginValidation.csproj.AssemblyReference.cache
+C:\Users\IJAS\source\repos\WindowsLoginValidation\obj\Debug\WindowsLoginValidation.csproj.SuggestedBindingRedirects.cache
+C:\Users\IJAS\source\repos\WindowsLoginValidation\obj\Debug\WindowsLoginValidation.Form1.resources
+C:\Users\IJAS\source\repos\WindowsLoginValidation\obj\Debug\WindowsLoginValidation.Main.resources
+C:\Users\IJAS\source\repos\WindowsLoginValidation\obj\Debug\WindowsLoginValidation.Properties.Resources.resources
+C:\Users\IJAS\source\repos\WindowsLoginValidation\obj\Debug\WindowsLoginValidation.csproj.GenerateResource.cache
+C:\Users\IJAS\source\repos\WindowsLoginValidation\obj\Debug\WindowsLoginValidation.csproj.CoreCompileInputs.cache
+C:\Users\IJAS\source\repos\WindowsLoginValidation\bin\Debug\WindowsLoginValidation.exe.config
+C:\Users\IJAS\source\repos\WindowsLoginValidation\bin\Debug\WindowsLoginValidation.exe
+C:\Users\IJAS\source\repos\WindowsLoginValidation\bin\Debug\WindowsLoginValidation.pdb
+C:\Users\IJAS\source\repos\WindowsLoginValidation\obj\Debug\WindowsLoginValidation.exe
+C:\Users\IJAS\source\repos\WindowsLoginValidation\obj\Debug\WindowsLoginValidation.pdb

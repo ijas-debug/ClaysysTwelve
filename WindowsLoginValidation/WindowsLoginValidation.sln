@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsLoginValidation", "WindowsLoginValidation.csproj", "{5FE0B929-15C4-43CA-AE81-F01C381E9344}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FE0B929-15C4-43CA-AE81-F01C381E9344}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FE0B929-15C4-43CA-AE81-F01C381E9344}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FE0B929-15C4-43CA-AE81-F01C381E9344}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FE0B929-15C4-43CA-AE81-F01C381E9344}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5CDB0C24-098D-4228-8700-EC0D528390B9}
+	EndGlobalSection
+EndGlobal

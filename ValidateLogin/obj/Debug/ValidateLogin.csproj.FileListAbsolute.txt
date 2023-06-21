@@ -1,0 +1,11 @@
+C:\Users\IJAS\source\repos\ValidateLogin\obj\Debug\ValidateLogin.csproj.AssemblyReference.cache
+C:\Users\IJAS\source\repos\ValidateLogin\obj\Debug\ValidateLogin.csproj.SuggestedBindingRedirects.cache
+C:\Users\IJAS\source\repos\ValidateLogin\obj\Debug\ValidateLogin.Form1.resources
+C:\Users\IJAS\source\repos\ValidateLogin\obj\Debug\ValidateLogin.Properties.Resources.resources
+C:\Users\IJAS\source\repos\ValidateLogin\obj\Debug\ValidateLogin.csproj.GenerateResource.cache
+C:\Users\IJAS\source\repos\ValidateLogin\obj\Debug\ValidateLogin.csproj.CoreCompileInputs.cache
+C:\Users\IJAS\source\repos\ValidateLogin\bin\Debug\ValidateLogin.exe.config
+C:\Users\IJAS\source\repos\ValidateLogin\bin\Debug\ValidateLogin.exe
+C:\Users\IJAS\source\repos\ValidateLogin\bin\Debug\ValidateLogin.pdb
+C:\Users\IJAS\source\repos\ValidateLogin\obj\Debug\ValidateLogin.exe
+C:\Users\IJAS\source\repos\ValidateLogin\obj\Debug\ValidateLogin.pdb
